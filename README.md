@@ -6,6 +6,6 @@ The purpose of this app is to read a list of directories that are named movie ti
 Note: This application requires dotnet core version 2.2
 ``` bash
   git clone https://github.com/JohnCongerCC/movieParse
-  cd novieParse
+  cd movieParse
   dotnet restore
 ```
